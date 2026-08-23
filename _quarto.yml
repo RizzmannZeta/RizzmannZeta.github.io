@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Ojas Kumar"
+
+  navbar:
+    title: false
+    background: transparent
+    search: false
+    right:
+      - href: index.qmd      
+        text: about
+      - href: research.qmd
+        text: research
+      - href: teaching.qmd
+        text: teaching
+      - href: notes.qmd
+        text: notes
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: false
+    anchor-sections: false

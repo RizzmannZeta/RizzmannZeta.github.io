@@ -1,0 +1,33 @@
+---
+pagetitle: "Teaching"
+---
+
+## For current students
+
+I’m happy to chat and help however I can. If I am a TF for one of your courses, you can set up a meeting with me by writing to [ojas.kumar_tf@ashoka.edu.in](mailto:ojas.kumar_tf@ashoka.edu.in). 
+
+## Teaching
+
+**Quantitative Reasoning and Mathematical Thinking**  
+Teaching Fellow, Ashoka University · 2026
+
+**Numerical Algorithms**  
+Visiting Faculty, Lodha Genius Programme · 2026
+
+**Introduction to Quantitative Finance**  
+Teaching Fellow, Ashoka University · 2026
+
+**Introduction to Differential Equations**  
+Visiting Faculty, Lodha Genius Programme · 2025
+
+**Complex Analysis**  
+Teaching Assistant, Chennai Mathematical Institute · 2024
+
+**Metric and Topological Spaces**  
+Teaching Assistant, Ashoka University · 2023
+
+## Discover Elementary Number Theory
+
+I am a coauthor, with Gaurav Bhatnagar and Sagar Shrivastava, of *Discover Elementary Number Theory*. The book grew out of a course we taught for the Lodha Genius Programme in 2024, based loosely on Hardy and Wright’s *An Introduction to the Theory of Numbers*. Our aim was to break some of its ideas into sequences of problems that students could work through for themselves. The students worked through a new problem sheet each day, and were largely Ashoka undergraduates interning with the programme.
+
+[Read more about the book](https://gauravbhatnagar.org/2026/08/22/discover-elementary-number-theory/)

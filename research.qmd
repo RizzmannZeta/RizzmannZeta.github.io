@@ -1,0 +1,18 @@
+---
+pagetitle: "Research"
+---
+
+## Publications and preprints
+
+*Coming, presumably.*
+
+## Master's thesis
+
+**The Laguerre–Pólya Class, Jensen Polynomials and the Riemann Hypothesis**  
+Chennai Mathematical Institute · 2025  
+_Supervisor:_ [Siddhi Pathak](https://www.cmi.ac.in/~siddhi/)
+
+This was an expository project on the Laguerre–Pólya class and the Jensen-polynomial approach to the Riemann hypothesis. As part of the project, I also translated Pólya and Schur's 1914 paper *Über zwei Arten von Faktorenfolgen in der Theorie der algebraischen Gleichungen* from German into English.
+
+[Thesis PDF](files/ojas-kumar-masters-thesis.pdf) ·
+[Pólya–Schur translation](files/polya-schur-translation.pdf)
