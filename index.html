@@ -125,10 +125,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="profile">
 <div class="profile-text">
 <div class="profile-name">
-<p>Ojas Kumar</p>
-</div>
-<div class="profile-name-devanagari">
-ओजस कुमार
+<p>Ojas Kumar <span class="profile-name-devanagari">ओजस कुमार</span></p>
 </div>
 <div class="profile-details">
 <p>Research Associate<br> <a href="https://scdlds.ashoka.edu.in/">Safexpress Centre for Data, Learning and Decision Sciences</a></p>
@@ -141,7 +138,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <p>I am a Research Associate at SCDLDS, where I am part of the finance group. I work at the intersection of quantitative finance and machine learning, and I am particularly interested in portfolio optimization.</p>
 <p>I studied at Ashoka University as an undergraduate before completing a master’s degree in mathematics at the Chennai Mathematical Institute in 2025. I found my way back to Ashoka soon after, but this time as a researcher.</p>
-<p>I also enjoy teaching. I have taught at Ashoka as a Teaching Fellow and have been involved with the Lodha Genius Programme for the past four years—first as an intern, and for the past two years as Visiting Faculty.</p>
+<p>I enjoy teaching. I have taught at Ashoka as a Teaching Fellow and have returned to the Lodha Genius Programme for about a month each summer over the past four years—first as an intern, and for the past two summers as Visiting Faculty.</p>
 
 
 
@@ -212,7 +209,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/ojas-kumar\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
