@@ -5,9 +5,8 @@ pagetitle: "Ojas Kumar"
 <div class="profile">
 <div class="profile-text">
 <div class="profile-name">
-  Ojas Kumar
+  Ojas Kumar <span class="profile-name-devanagari">ओजस कुमार</span>
 </div>
-<div class="profile-name-devanagari">ओजस कुमार</div>
 <div class="profile-details">
 Research Associate<br>
 <a href="https://scdlds.ashoka.edu.in/">Safexpress Centre for Data, Learning and Decision Sciences</a>
@@ -23,4 +22,4 @@ I am a Research Associate at SCDLDS, where I am part of the finance group. I wor
 
 I studied at Ashoka University as an undergraduate before completing a master’s degree in mathematics at the Chennai Mathematical Institute in 2025. I found my way back to Ashoka soon after, but this time as a researcher.
 
-I also enjoy teaching. I have taught at Ashoka as a Teaching Fellow and have been involved with the Lodha Genius Programme for the past four years—first as an intern, and for the past two years as Visiting Faculty.
+I enjoy teaching. I have taught at Ashoka as a Teaching Fellow and have returned to the Lodha Genius Programme for about a month each summer over the past four years—first as an intern, and for the past two summers as Visiting Faculty.
